@@ -13,10 +13,11 @@ permalink: /fun-time-arsenal/
 
 I. [Introduction](#Introduction)
 
+II. [Tricks](#Tricks)
 
 ----
 
-# Introduction
+# <a name="Introduction">Introduction</a>
 
 > "Life moves pretty fast. If you don't stop and look around once in a while, you could miss it."
 > 
@@ -44,7 +45,7 @@ Spending time with friends and family is the best way to spend time. The Fun Tim
 
 ----
 
-# Tricks
+# <a name="Tricks">Tricks</a>
 
 ### Popped Eyeball
 Many restaurants, especially diners, leave those little one-inch-tall coffee creamer cups on the table.
