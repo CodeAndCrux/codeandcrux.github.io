@@ -43,6 +43,8 @@ It did exactly what I intended it to do when I first created it in 2014. It help
 
 Spending time with friends and family is the best way to spend time. The Fun Time Arsenal is a compilation of tools that can bring us back to our roots as beings that thrive when we are enjoying our time together.
 
+When we have something to focus on, like a game or a trick, our conversations and interactions flow more naturally and there are fewer awkward silences. The Fun Time Arsenal offers those somethings to focus on that will lubricate our social interactions.
+
 ----
 
 # <a name="Tricks">Tricks</a>
@@ -50,7 +52,9 @@ Spending time with friends and family is the best way to spend time. The Fun Tim
 ### Popped Eyeball
 Many restaurants, especially diners, leave those little one-inch-tall coffee creamer cups on the table.
 
-When the person you're eating with isn't looking, grab one of those creamer cups. Form a fist around it. If you are holding the cup with your left hand, the paper lid part of the cup should face to the right. If you are holding the cup with your right hand, the lid should face the left.
+When the person you're eating with isn't looking, grab one of those creamer cups. You can distract the person you're with by asking them to see if you have something in your eye. While they're examining your eye, grab a creamer cup without looking away.
+
+Form a fist around the cup. If you are holding the cup with your left hand, the paper lid part of the cup should face to the right. If you are holding the cup with your right hand, the lid should face the left.
 
 With the hand that isn't holding the creamer, pick up a fork.
 
