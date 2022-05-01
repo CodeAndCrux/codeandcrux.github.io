@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-![Joe with his sisters, Trisha and Brenna.](/_assets/jtb.jpeg)
+![Joe with his sisters, Trisha and Brenna.](/assets/jtb.jpeg)
