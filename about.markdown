@@ -16,7 +16,7 @@ Spending time with my people, that brings me the greatest happiness. The rest pa
 
 ![Joe with his sisters, Trisha and Brenna.](/assets/jtb.jpeg)
 
-### After that, it's difficult to put things in order so I will give you my next five favorite things to do
+After that, it's difficult to put things in order so I will tell you my next five favorite things to do
 * Being active
 * Creating and playing music
 * Computer programming
