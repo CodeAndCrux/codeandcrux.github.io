@@ -1,0 +1,48 @@
+---
+layout: page
+title: Develop Wit
+permalink: /wit/
+---
+
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>
+		Develop Wit
+	</title>
+	<style>
+
+		/* Set display to none for image*/
+		#image {
+			display: none;
+		}
+	</style>
+</head>
+
+<body>
+	<div>
+		<h1>A tool for developing rhetorical wit.</h1>
+		<h3>It is a work in progess. Click the button for a test.</h3>
+		<img id="image" src="/assets/flower.jpeg" alt="GFG image" />
+	</div>
+
+	<button type="button" onclick="show()" id="btnID">
+		Flowers!
+	</button>
+
+	<script>
+		function show() {
+
+			/* Access image by id and change
+			the display property to block*/
+			document.getElementById('image')
+					.style.display = "block";
+
+			document.getElementById('btnID')
+					.style.display = "none";
+		}
+	</script>
+</body>
+
+</html>
