@@ -7,6 +7,14 @@ permalink: /wit/
 <!DOCTYPE html>
 <html>
 
+<!-- To Do List
+X change to a random image each time button is clicked
+- keep count of the number of times the button is clicked
+- add a button to reset the counter
+- start a timer on first button click
+- add list of image credits
+-->
+
 <head>
 	<title>
 		Develop Wit
@@ -21,26 +29,31 @@ permalink: /wit/
 </head>
 
 <body>
-	<div>
-		<h1>A tool for developing rhetorical wit.</h1>
-		<h3>It is a work in progess. Click the button for a test.</h3>
-		<img id="image" src="/assets/flower.jpeg" alt="GFG image" />
-	</div>
-
-	<button type="button" onclick="show()" id="btnID">
-		Flowers!
+	<h3>A tool for developing rhetorical wit.</h3>
+	<p>Click the "Show Person" button to show a picture. As fast as you can, think of something you would
+		say to the person. Consider his/her surroundings, jewelry, clothing, etc. If you get an image multiple
+		times, build up a mental collection of things you can say to someone every time you see him/her in
+		that particular scenario.</p>
+	<button type="button" onclick="showRandomImage()" id="btnID">
+		Show Person
 	</button>
 
+	<div>
+		<img id="image" src="../assets/develop_wit/develop_wit_1.jpg" alt="FLOWERS!" />
+	</div>
+
 	<script>
-		function show() {
+		function showRandomImage() {
+			min = Math.ceil(1);
+			max = Math.floor(103);
+			imageNumber = Math.floor(Math.random() * (max - min) + min);
 
-			/* Access image by id and change
-			the display property to block*/
 			document.getElementById('image')
-					.style.display = "block";
+					.style.display = "block"
+			document.getElementById('image')
+					.src="../assets/develop_wit/develop_wit_" + imageNumber + ".jpg";
 
-			document.getElementById('btnID')
-					.style.display = "none";
+			console.log(imageNumber);
 		}
 	</script>
 </body>
