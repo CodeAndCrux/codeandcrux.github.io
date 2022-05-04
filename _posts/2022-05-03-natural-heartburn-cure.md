@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Natural Heartburn Cure, No Drugs Needed"
-date:   2022-05-03 20:00:00 -0500
-categories: health, body, food
+date:   2022-05-03 19:00:00 -0500
+categories: [health, body, food]
 ---
 Before I zeroed in on my body's ideal eating habits, I would get heartburn all the time. When I was younger, I would take pharmaceutical drugs to clear up the symptoms. Then I learned about all the side effects of the drugs. I stopped taking them, and learned to eat the right way instead.
 
