@@ -2,7 +2,7 @@
 layout: post
 title:  "When I Needed Patience"
 date:   2022-01-11 16:50:47 -0500
-categories: virtue patience soul mind
+categories: story virtue patience soul mind
 ---
 One Saturday afternoon, I went to confession. Among other things, I confessed that I was harboring self-pity. The priest asked why, and I told him it was because I was single and felt lonely. Then he asked, “what does God want you to do about it?”
 
