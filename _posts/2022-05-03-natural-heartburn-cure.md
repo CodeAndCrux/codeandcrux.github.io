@@ -19,6 +19,7 @@ I must warn you, eat the oatmeal first. Drinking kombucha on an empty stomach ca
 I have no idea why oatmeal and kombucha work so well, but here are some guesses:
 - Kombucha is acidic. It primarily contains two types of acid: acetic acid and gluconic acid. I suspect that one or both of those types of acid are similar to the acid that our bodies produce, and being similar, trigger the esophageal sphincter to close up tight. That closing prevents any further acid from seeping into the esophagus. Acid seeping into the esophagus causes heartburn, so preventing that makes a big impact.
 - Another possible explanation for kombucha's efficacy is that acid coagulates certain liquids. Since kombucha is acidic, I wonder if it coagulates the liquids in the stomach so that they become thick instead of thin. Thicker liquids would have more difficulty seeping into the esophagus.
+- It is also possible that kombucha, which has miniscule amounts of alcohol, inhibits the functioning of the immune system, which then stops the immune system from attacking the gut in some way.
 - Oatmeal is very absorbative. I suspect that it fills the stomach, absorbs much of the liquid and/or acid in the stomach, and thus prevents additional seepage into the esophagus.
 
 Those are my guesses. Oatmeal and kombucha are amazing for curing heartburn. I don't know how they work, exactly, but I am glad they work so well.
