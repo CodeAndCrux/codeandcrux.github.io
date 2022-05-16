@@ -16,7 +16,8 @@ When you are alone with silence, your meditation has begun. The lack of stimulat
 
 When your mind has finally turned off, simply because you sat quietly in a room alone, you have achieved that part of meditation that everybody blathers on about.
 
-### Here are some of the benefits I have experienced from this sort of meditation
+Here are some of the benefits I have experienced from this sort of meditation.
+
 - Relaxation. Sometimes even bliss
 - Epiphanies and new solutions to problems
 - A deep sense of needing nothing
