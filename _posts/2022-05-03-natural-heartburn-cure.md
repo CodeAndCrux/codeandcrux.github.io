@@ -12,7 +12,7 @@ Usually, I can stop my heartburn with just one of them, but together they have n
 
 The best thing is, they're both *DELICIOUS*!
 
-They are **oatmeal**  and **kombucha**.
+They are **cooked oatmeal**  and **kombucha**.
 
 I must warn you, eat the oatmeal first. Drinking kombucha on an empty stomach can make heartburn worse. However, having it along with oatmeal seems to give the oatmeal's medicinal qualities a boost.
 
