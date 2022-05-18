@@ -10,7 +10,7 @@ Human connections are the most important thing in my life. The most important co
 
 My favorite story is the one where Jesus Christ washes the feet of his friends - John 13:1-17. How beautiful it is that the creator of the world became a human, like you and I, and washed his friends' feet. Then, in John 15:13, he says, "No one has greater love than this, to lay down one’s life for one’s friends."
 
-Those words fill me with relief and joy. I am thankful that the one who created me places such value on loving one's friends. I am thankful that his greatest commandment is to do something that feels so right in my heart, and makes my heart feels so right. Even if you believe The Bible is fiction, you cannot deny the beauty in those words.
+Those words fill me with relief and joy. I am thankful that the one who created me places such value on loving one's friends. I am thankful that his greatest commandment is to do something that feels so right in my heart, and makes my heart feel so right. Even if you believe The Bible is fiction, you cannot deny the beauty in those words.
 
 Spending time with my people, that brings me the greatest happiness. The rest pales in comparison.
 
