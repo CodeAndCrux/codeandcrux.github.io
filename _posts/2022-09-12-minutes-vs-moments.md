@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Live for Moments, Not Minutes"
-date:   2022-09-12 16:30:00 -0500
+date:   2022-09-12 12:30:00 -0500
 categories: life time soul mind
 ---
 he spent his life in his lab
