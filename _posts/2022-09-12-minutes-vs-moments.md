@@ -5,11 +5,16 @@ date:   2022-09-12 12:30:00 -0500
 categories: life time soul mind
 ---
 he spent his life in his lab
+
 searching for a way
+
 to live forever
 
+
 now on his deathbed
+
 he wishes he had accepted fate
+
 and lived when he had the chance
 
 ----
