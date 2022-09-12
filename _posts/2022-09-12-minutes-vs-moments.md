@@ -4,18 +4,13 @@ title:  "Live for Moments, Not Minutes"
 date:   2022-09-12 12:30:00 -0500
 categories: life time soul mind
 ---
-he spent his life in his lab
+he spent his life in his lab<br>
+searching for a way<br>
+to live forever<br>
 
-searching for a way
-
-to live forever
-
-
-now on his deathbed
-
-he wishes he had accepted fate
-
-and lived when he had the chance
+now on his deathbed<br>
+he wishes he had accepted fate<br>
+and lived when he had the chance<br>
 
 ----
 
