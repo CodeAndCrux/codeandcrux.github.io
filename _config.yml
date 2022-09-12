@@ -21,10 +21,10 @@
 title: Joseph Kreydt
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  You are reading the writings of Joseph Kreydt, a fool who knows he is a fool.
+  Essays on body, mind, and soul.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.kreydt.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: josephkreydt
+# twitter_username: josephkreydt
 github_username:  josephkreydt
 
 # Build settings
