@@ -66,7 +66,7 @@ A loving God does not see wealth as good, nor does he see it as evil. In the sam
 
 From that perspective, the well-fed becoming hungry is not a bad thing. It is the thing that the well-fed need in order to find and maintain true happiness. Likewise, the rich being sent away empty is not a bad thing. It is exactly what the rich need in order to find and maintain true happiness.
 
-It is the reason we enjoy stories. The comfortable, set-in-his-ways, well-fed hero needs to be sent away. He needs to be hungry or he will never go looking for food; he will never go on a great adventure. And without an adventure, he will never learn or obtain anything resembling real happiness.
+It is the reason we enjoy stories. The comfortable, set-in-his-ways, well-fed hero needs to be sent away. He needs to be hungry or he will never go looking for food. He will be a slave to his comfort, trapped. He will never go on a great adventure. And without an adventure, he will never learn or obtain anything resembling real happiness.
 
 Before I though of "woe to you who are filled" as a death sentence. I thought of it as, "you who are filled will go to Hell." But it is more like, "I will give each individual what he or she needs in order to find true happiness."
 

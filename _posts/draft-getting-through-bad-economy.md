@@ -1,3 +1,5 @@
+Food shortages, sky-rocketing gas prices, pressurized housing market... we are expecting tougher times ahead.
+
 # How I am planning to get through the tough economy
 
 ### Figure out the bare minimums I need for food
@@ -34,6 +36,7 @@ I will look forward, as I always do, to making salsas and fermented foods like p
 - Work on ways to generate income aside from my normal job as a developer
 - Ask the Lord for grace
 - Purchase certain things in bulk, like deodorant, toothpaste, oats, whole wheat flour, frozen fish, and frozen berries
+- Cancel subscription services like Netflix, Disney+, Hulu, etc
 
 ### Questions to ask before buying something
 - Will it increase, encourage, or in any way improve my relationships?
