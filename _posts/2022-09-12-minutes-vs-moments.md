@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Live for Moments, Not Minutes"
+title:  "Seek Moments, Not Minutes"
 date:   2022-09-12 12:30:00 -0500
 categories: life time soul mind
 ---
