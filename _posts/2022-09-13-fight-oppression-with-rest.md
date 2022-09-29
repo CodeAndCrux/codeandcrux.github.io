@@ -80,7 +80,9 @@ Work is important, but so is a common day of rest. Cage the Elephant sang, "ain'
 
 Either way, it seems that rest, especially in the form of a common day of worship, keeps us whole (like the number seven in the Bible), and taking it away fractures us and we become exposed to grave danger.
 
-I am going to go get some rest now.
+What does this say about our current culture where everything is open 24/7, devices are sending us notifications at all hours, and productivity is all the rage?
+
+...I am going to go get some rest now.
 
 ----
 
