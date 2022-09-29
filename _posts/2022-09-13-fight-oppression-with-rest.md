@@ -20,11 +20,13 @@ Moses makes it clear that "rest to the Lord" is vital.
 
 ----
 
+## Defining Rest
+
 The meaning of rest, in the commandment and in this writing, is not "sleep." In the context of the commandment, Moses is contrasting rest with work. Rest is time spent not working. Rest is activity with no purpose.
 
 ----
 
-# For the Best Rest, Worship
+## For the Best Rest, Worship
 
 In *Leisure: The Basis of Culture*, the German Catholic philosopher Josef Pieper writes about the importance of a holy day of rest. He points out that "the vacancy left by absence of worship is filled by mere killing of time and by boredom, which is directly related to inability to enjoy leisure; for one can only be bored if the spiritual power to be leisurely has been lost."
 
@@ -44,9 +46,7 @@ In a gist, the best way to rest is to play with God.
 
 ----
 
-# The Importance of a Common Day of Rest
-
-## Rest to Fight Tyranny
+## Fight Oppression with Rest
 
 Some of the most notorious men of the past couple hundred years have promoted work-without-rest as a virtue.
 
@@ -56,7 +56,7 @@ Under the Soviet regime, a continuous working week, called the nepreryvka, was i
 
 One complaint, published in a Soviet newspaper, said, "what is there for us to do at home if our wives are in the factory, our children at school and nobody can visit us? It is no holiday if you have to have it alone" [^2].
 
-The sociologist Eviatar Zerubavel points out that it is possible that the nepreryvka's detriment to religious and family life was intentional. Without a common resting day, it is easier for societal powers to divide and conquer because it is harder for the people to unite and stand up for themselves.
+The sociologist Eviatar Zerubavel points out that it is possible that the nepreryvka's detriment to religious and family life was intentional. Without a common resting day, it is easier for societal powers to divide and conquer because it is harder for the people to unite and stand up for themselves [^2].
 
 It is harder for friendships to form, and friendships are a grave threat to tyrants. When two or more people find a common goal (this is how CS Lewis defines friendship), they are capable of revolution. Bill Gates and Paul Allen started Microsoft and changed the world. Steve Jobs and Steve Wozniak did the same when they started Apple. Revolutions begin with friendships. Taking away a common day of rest, thus straining friendships, is a great way for an absolutist state to maintain its power.
 
@@ -88,9 +88,8 @@ I am going to go get some rest now.
 [^1]: https://www.washingtonpost.com/news/worldviews/wp/2014/11/03/arbeit-macht-frei-the-notorious-nazi-sign-thieves-stole-from-a-concentration-camp/
 [^2]: https://www.history.com/news/soviet-union-stalin-weekend-labor-policy
 
-1. https://www.washingtonpost.com/news/worldviews/wp/2014/11/03/arbeit-macht-frei-the-notorious-nazi-sign-thieves-stole-from-a-concentration-camp/
-2. https://www.history.com/news/soviet-union-stalin-weekend-labor-policy
-3. https://academyofideas.com/2015/11/fear-and-social-control/
-4. https://www.grin.com/document/106155
-5. https://www.biblegateway.com/versions/New-American-Bible-Revised-Edition-NABRE-Bible/
+1. https://academyofideas.com/2015/11/fear-and-social-control/
+2. https://www.grin.com/document/106155
+3. https://www.biblegateway.com/versions/New-American-Bible-Revised-Edition-NABRE-Bible/
 
+### Footnotes
