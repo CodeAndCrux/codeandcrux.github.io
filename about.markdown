@@ -115,7 +115,27 @@ After that, it's difficult to put things in order so I will tell you my next fiv
 * Charles Bukowski
 * William Shakespeare
 
+### My favorite bands and musicians
+* Alexandra Stréliski
+* Jack Johnson
+* The Cure
+* blink-182
+* Bob Marley
+* Jon Foreman
+* Switchfoot
+* Charlie Crockett
+* Rodrigo y Gabriela
+* The Strokes
+* mewithoutYou
+* Outkast
+* Olivia Rodrigo
+* Sublime
+* Dire Straights
+* Bahamas
+* Eminem
+
 ### My favorite tech stuff
-* Vim text editor
+* Vim text editor when I have no GUI
+* VS Code
 * MacOS, iOS, and Apple hardware
 * GitHub

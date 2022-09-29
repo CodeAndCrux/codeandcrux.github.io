@@ -10,7 +10,7 @@ Then, bad news and bad rumors came around. The death rate in Italy was estimated
 
 Every thinking person in the United States was forced to confront their death. I was plagued with anxiety.
 
-I remember unloading groceries in the garage with my dad, and wiping everything down with peroxide in an attempt to limit our exposure to COVID. As a healthy man in his early thirties, my chances of surviving the illness were good. My parents, not quite as healthy, and in their sixties, were at greater risk. I feared losing them.
+I remember unloading groceries in the garage with my dad, and wiping everything down with peroxide in an attempt to prevent exposure to the virus. As a healthy man in his early thirties, my chances of surviving the illness were good. My parents, not quite as healthy, and in their sixties, were at greater risk. I feared losing them.
 
 It seems that I grow (toward happiness? toward virtue?) when I face my deepest fears.
 
@@ -40,13 +40,13 @@ My most shocking realization was that fear played a significant role in almost e
 
 It worked out alright. I had a good job, a reliable car, good relationships with my parents and sisters, and had paid off my college loans in just a few years. But at the same time, I had been failing, for more than ten years, to attain some of the things I considered most valuable: friendship and romantic love.
 
-After I realized that, I started noticing how much fear played a role in everyones decisions. It seemed a plague worse than the pandemic. I noticed my neighbors and friends being controlled by means of fear.
+After I realized that, I started noticing how much fear played a role in everyone's decisions. It seemed a plague worse than the pandemic. I noticed my neighbors and friends being controlled by means of fear.
 
 I decided that living by fear was worse than dying, and fear doesn't guarantee survival anyway.
 
 I can state that decision in a couple sentences here, but it took me a while to realize it. My first big step occurred in January of 2021. The same guy who told me about the Zantac lawsuit asked if I would join his church choir group. That scared me, so I did it. I wasn't sure whether I wanted to be a church choir musician or not, but that didn't matter. I knew I wouldn't really know what I wanted if fear was obstructing my view.
 
-We played at a few Sunday morning Masses. It got easier every time. After I got past the fear, I truly enjoyed it. Best of all, I realized that I could do something in spite of my terror. I could play guitar and sing well in front of a church full of people even though I was nearly blinded by panic.
+We played at a few Sunday morning Masses. It got easier every time. After I got past the fear, I truly enjoyed it. Best of all, I realized that I could do something in spite of my fear. I could play guitar and sing well in front of a church full of people even though I was nearly blinded by panic.
 
 Until then, I wasn't aware that I could separate my fear from my enjoyment of something. I thought that if I was afraid, I couldn't enjoy it. But I learned that fear and enjoyment are separate. Of course it's no fun to panic for an hour, but in between the moments of panic, I felt focused and present. I felt like I was doing what I was supposed to do. I felt happy.
 
@@ -62,7 +62,7 @@ We went on a couple more dates, but ultimately she ended things. I was happy. I 
 
 I spent a lot of time trying to figure out what went wrong. My final conclusion is that attraction is a great mystery. There were probably a million reasons why it didn't work out, and 999,999 reasons why it could have.
 
-That failure launched me. I have, since, come to believe that the more painful a failure is the stronger it will drive a person towards success. As long as it doesn't stop them from trying, it will propel them.
+That failure launched me. I have since come to believe that the more painful a failure is the stronger it will drive a person towards success. As long as it doesn't stop them from trying, it will propel them.
 
 >"The phoenix must burn to emerge."
 >
@@ -96,7 +96,7 @@ I believe I now understand the pain that many anorexic teenage girls feel. Durin
 
 Looking in the mirror now, I know I am not as beautiful as some Hollywood star, but I am certainly not as ugly as I looked when I saw myself in the mirror during those winter months. Somehow my view of myself had been drastically distorted.
 
-I went deep during the winter. I went deep. I questioned my core beliefs. I questioned everything. I hated myself. I worshipped myself. I prayed. I screamed. I doubted. I cried. I sang. I wrote.
+I went deep during the winter. I think it was a dark night of the soul. I went *deep*. I questioned my core beliefs. I questioned everything. I hated myself. I worshipped myself. I prayed. I screamed. I doubted. I cried. I sang. I wrote.
 
 I think I gained more wisdom than I ever had before. I realized that the only things I really cared about were relationships. I realized that I know very little, but believe quite a bit. I realized that I need nothing. There are many things that I want, but I need nothing. I realized that I was going to have to spend the rest of my life with myself, and so I would much rather be a kind companion than a disgusted one.
 
@@ -104,7 +104,7 @@ I could, and maybe will, write separate essays on each of those realizations. In
 
 Before winter, I had written "Courage" on a piece of paper and hung it on my refrigerator. Now, we are approaching the end of May. That piece of paper is still hanging on my fridge, but it also has written on it, in small letters, "Loosen Up." And there is a new piece of paper hanging on my fridge now that says, "LOVE HUMAN BEINGS."
 
-Everything I have learned thus far in my life, and especially since the begining of the pandemic, has culminated in the realization that relationships with human beings are my highest priority. Relationships are where I find peace and happiness.
+Everything I have learned thus far in my life, and especially since the beginning of the pandemic, has culminated in the realization that relationships with human beings are my highest priority. Relationships are where I find peace and happiness.
 
 It took a lot for me to realize that relationships matter more to me than money or comfort or excitement or pleasure or shiny new things. And I am not just talking about romantic relationships. I am talking about all kinds of relationships.
 
