@@ -5,6 +5,8 @@ date:   2018-10-01 16:30:00 -0500
 categories: soul mind film poetry
 ---
 
+![https://github.com/kreydt/kreydt.github.io/blob/main/assets/Donnie_Darko_Kiss.jpeg?raw=true](https://github.com/kreydt/kreydt.github.io/blob/main/assets/Donnie_Darko_Kiss.jpeg?raw=true)
+
 *Donnie Darko* is my favorite film to watch during the Halloween season. It is creepy and takes place in October. Also, the soundtrack kicks butt.
 
 My affection for the movie goes beyond the great setting though. What really draws me are the theories and discussions surrounding the movie.
