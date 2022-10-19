@@ -280,14 +280,82 @@ Luckily, life shook me up a bit, and I realized I was tyrannizing myself. It too
 
 ## Hyper-Stimulation Is Toxic, Addiction Sucks Until It Is Broken
 
-- Drinking coffee on weekends, but not during week, then getting depressed during week
-- Watching YouTube, Twitter, Facebook, Instagram, but losing interest in actual socializing
-- Smoking weed and staying in instead of drinking and going out
+Around this same time, I started experiencing depression only a couple days of the week. I usually felt fine Monday and Tuesday, even Wednesday, but Thursday and/or Friday, I would feel miserable. I was still working the job I hated, so weekends were my favorite part of the week, and Mondays were my least favorite part. Yet, I was finding myself depressed on Thursdays and Fridays.
 
-ADDITIONAL TOPICS AND NOTES
+I would drag myself through the workday, and then lay in bed the rest of the evening.
+
+Around this time, I realized I could take some advantage of this depression. I knew it would come every week, and I knew it would leave a couple days later. Instead of trying to cure it, I tried to figure out what I could still do while I was depressed; what could ease the suffering and how far I could push myself to live normally in spite of it. I will explain what I found in a later section [link to the section].
+
+For now, I want to talk about addiction.
+
+It turns out, my depression was actually a symptom of withdrawal. At that time of my life, I was drinking coffee, but only on weekends. By Thursday or Friday, I was experiencing depression as a withdrawal symptom from caffeine.
+
+At first, I decided that life wasn't worth living without coffee, so instead of drinking it only on weekends, I started drinking it every day. It was great. I stopped getting depressed on Thursday and Fridays.
+
+But I could only drink one cup a day, or the negative side effects (anxiety, acid reflux, etc) far outweighed the benefits. Eventually, my body built up a tolerance to the caffeine, and I stopped experiencing the mental stimulation, the dopamine boost. Then, I was left only with the negative side effects.
+
+After a couple months, I quit drinking coffee (again). I dealt with withdrawal symptoms for a solid couple of months. I would get very angry very easily which is not like me at all. An ex-girlfriend, when she was still my girlfriend, described me as "the chill guy." Being the angry guy was not my usual mode.
+
+When the withdrawal symptoms finally went away, I felt great. I stopped experiencing depression every Thursday. I also found it much easier to focus after I quit drinking coffee. I know that's pretty much the opposite of what most people say about coffee, but it really made it difficult for me to focus on anything.
+
+Now, I was free of coffee, but I still had addictions. The worst was YouTube. Most people don't experience physical symptoms from YouTube addiction, so they don't think they're addicted to it. I was one of those people. However, I know now that it, and other social media, are addicted, and I was addicted. Let me explain how this addiction works.
+
+When I watch YouTube, I get a huge dopamine release. I learn new things. I see interesting people. I laugh. I "awe."
+
+YouTube's algorithms are designed to give each user as much of a dopamine release as possible. They are designed that way in order to get viewers to spend as much time on YouTube as possible. The more time a person spends on YouTube, the more advertisements they see, and the more money YouTube makes. YouTube needs money to survive, so it designs its algorithms to maximize that.
+
+When I get a hit of dopamine from watching YouTube, I feel good. Dopamine is a reward chemical. It was designed (by God, by evolution) to encourage us to do things like go hunting and reproduce.
+
+Our nervous systems get used to having a certain level of dopamine. This becomes our dopamine baseline. When we're at our baseline, we feel fine. We feel good when something gives us a boost so that our dopamine levels are above baseline. We feel bad when our dopamine levels fall below baseline.
+
+When I watch YouTube, it spikes my dopamine levels. I feel good because my dopamine levels are above baseline. Then, when I stop watching YouTube, my dopamine levels fall back down to baseline, or maybe even a little below it so that my nervous system can rebuild its dopamine stores. All is well at this point.
+
+The problem comes when I am constantly spiking my dopamine levels. I watch YouTube and get a boost above baseline. Then I scroll through Instagram and get a boost above baseline. Then I listen to some great music and get a boost. Overtime, my baseline changes. My nervous system gets used to have higher levels of dopamine, so those higher levels become my new baseline.
+
+This causes very serious problems. Things that used to only bring me a little bit above baseline - like reading, tucking myself into bed, cooking a meal, hanging out with friends, or going for a walk in the woods - now do not bring me above baseline at all because my baseline is so high. In fact, those activities might now bring me below baseline. So healthy things that I once enjoyed become uninteresting at best and depressing at worst.
+
+When I spend too much time watching YouTube, or do anything hyper-stimulating, I become disinterested in all the other parts of life. I become bored and depressed and lethargic.
+
+This is the tragedy of hyper-stimulation, and our culture is dripping wet with it. But there is a solution!
+
+When I stop watching YouTube and cut out social media, I stop getting those dopamine spikes. It feels bad at first. It might even make me depressed. But after a week or two, my dopamine baseline goes back down, and activities like reading and spending time with friends once again give me enough of a dopamine boost to make me feel. I start enjoying healthy activities again.
+
+It took me a long time to figure this out. It started when the COVID-19 pandemic had been going on for a couple months.
+
+The whole thing was very politicized, and I started noticing misinformation from prominent broadcasters. One article, from a very "reputable" national newspaper, had a headline that indicated the corona virus was found on surfaces in a cruise ship 17 days after it had been vacated. This seemed strange to me, so I looked into the source. The source was a scientific study. I looked into that source, and its citation for the whole "17 days" thing was word of mouth from a researcher who had been on the ship. Word of mouth. That is not science.
+
+Of course, the article has since been updated to say something like "genetic material, not the actual virus, was found."
+
+I became frustrated with the abysmal journalism that was running rampant. There was no integrity. It was clear they only wanted to capitalize on the pandemic. They did so by saying inflammatory things that would get people to click on their headlines and view more advertisements.
+
+I was a Communications major in college - lest ye think I took the easy way out, I also received a master's degree in Information Systems - so I knew very well how broadcast media worked. We learned an anagram called SIMPLE PLEASURES. It describes the methods of persuasion (emotional and rational appeals) that work best in broadcast media. They are S___, I____, M____ ... [need to look these up in the textbook, and cite it as the source]
+
+Ultimately, though, it comes down to just two. Make people angry or make them afraid. If you do either of those, they will keep coming back, they will keep clicking.
+
+#### The Lesson
+
+Knowing this, I decided I had enough of the game. Around the same time, Facebook and Twitter started banning political figures and censoring information. That was the last straw. I finally realized how much power these organizations were holding over me. I deleted my Facebook, Instagram, and Twitter accounts, and I limited my YouTube viewing to one day per week.
+
+Instead, I read books, wrote, played guitar, went for long walks, and put serious effort into online dating. This meant I spent far less time consuming hyper-stimulating content.
+
+I didn't notice much change at first. I didn't think there would be much change. But as time went on and I witnessed others who were still consuming massive amounts of social media content, I noticed how different I had become.
+
+The whole thing really clicked after I had started watching YouTube every evening again. I found myself, once again, uninterested in spending time with people, uninterested in reading books, uninterested in exercising, and even uninterested in watching movies at times. All I wanted to do was watch YouTube. As soon as I opened my laptop, without thinking I would go to YouTube.
+
+----
+
 ## Getting over my social anxiety
+-- Katresa, moving out, and rock climbing class
 -- During COVID, read USA Today article that said virus lasts 17 days on surfaces. Looked into source. Ended up being word of mouth from word of mouth from word of mouth from some random person in a team of researchers on a cruise ship. Stopped trusting information. Started realizing I was brainwashed.
 -- Life is not happiness. If someone leads you to believe that people are mostly happy, they're probably trying to exploit you. They want you to believe that you need them or their product or service in order to be happy. Be wary of people who engage your emotions.
+
+
+
+----
+
+ADDITIONAL TOPICS AND NOTES
+## Projecting my depression onto my failed relationships, but somedays I would feel fine, so it was clearly my depression, not my failed relationships, that were really the biggest problem.
+
 ## Nutrients, electrolyte theory
 -- Depressed after exercising, figure it must be a nutrient deficiency
 -- Tried eating more protein, etc, but couldn't quite pin point it
@@ -300,6 +368,7 @@ ADDITIONAL TOPICS AND NOTES
 -- I decided to research electroyltes further. Realized they're called electrolytes because they conduct (help neurological system transmit) neurons/electricity (which is what brain signals are made of). So, dopamine signals, if you have no electrolytes, are going to move very slow or not at all.
 -- Then, at my cousin's wedding, I talked to a college student girl about psychiatry because she was working in a psychiatric hospital. She said they use electro-therapy still, but it's not like it is in the old movies. She said it makes a huge difference in depressed patients. That got me thinking about the whole depression thing more. Maybe a lot of these patients are just deficient in electrolytes.
 -- I eat a very healthy diet (as you've probably read), but somehow I was still deficient. Partly that was because I sweat a lot, and you lose a lot when you sweat. Partly, though, I wonder if our whole system of farming has messed up our food supply. You see, farmers want to squeeze every ounce of profit out of the soil as they can. They fertilize with potassium, nitrate, and ____, but they are going to do that as little as they possibly can to save money. Then, on top of that, the whole reason they need to fertilize is because they have depleted the soil of nutrients with poor farming practices. So, even the healthy, whole food produce that we eat is probably lacking in electrolytes.
+-- On top of this, we heavily salt our foods with purified salt, so we have an imbalance of sodium and the other electrolytes, and the balance is important in a chemical reaction and the conduction of electricity too.
 ## Take Some Deep Breaths And De-Focus Your Eyes
 ## get out in nature and sunshine. Paddle boarding effects on me
 ## Experience beauty: nature, good classical music, art

@@ -14,7 +14,7 @@ Those words fill me with relief and joy. I am thankful that the one who created 
 
 Spending time with my people, that brings me the greatest happiness. The rest pales in comparison.
 
-![Joe with his sisters, Trisha and Brenna.](/assets/jtb.jpeg)
+![Joe climbing over a mound of mud in a race](/assets/race.jpeg)
 
 After that, it's difficult to put things in order so I will tell you my next five favorite things to do
 * Being active
