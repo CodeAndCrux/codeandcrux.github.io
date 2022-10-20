@@ -340,14 +340,86 @@ Instead, I read books, wrote, played guitar, went for long walks, and put seriou
 
 I didn't notice much change at first. I didn't think there would be much change. But as time went on and I witnessed others who were still consuming massive amounts of social media content, I noticed how different I had become.
 
-The whole thing really clicked after I had started watching YouTube every evening again. I found myself, once again, uninterested in spending time with people, uninterested in reading books, uninterested in exercising, and even uninterested in watching movies at times. All I wanted to do was watch YouTube. As soon as I opened my laptop, without thinking I would go to YouTube.
+The whole thing really clicked when I fell back into my habit of watching YouTube every evening. I found myself, once again, uninterested in spending time with people, uninterested in reading books, uninterested in exercising, and even uninterested in watching movies. All I wanted to do was watch YouTube. As soon as I opened my laptop, without thinking I would go to YouTube.
 
 ----
 
 ## Getting over my social anxiety
--- Katresa, moving out, and rock climbing class
--- During COVID, read USA Today article that said virus lasts 17 days on surfaces. Looked into source. Ended up being word of mouth from word of mouth from word of mouth from some random person in a team of researchers on a cruise ship. Stopped trusting information. Started realizing I was brainwashed.
--- Life is not happiness. If someone leads you to believe that people are mostly happy, they're probably trying to exploit you. They want you to believe that you need them or their product or service in order to be happy. Be wary of people who engage your emotions.
+The COVID pandemic, at least in the first couple months when we were still unsure of its effects, was really a boon in my life. It lead me to ask, "what is most important in my life?" I asked that question from several perspectives: What foods do I really need and what can I live without? What actually makes me happy? What would I do today if I only had one more year to live? What am I grateful for that COVID might take away from me? What matters and what does not?
+
+The answer was something I actually determined when I was an undergrad in college, when I read *The Four Loves* by C.S. Lewis, under the guidance of a phenomenal professor. Unfortunately, I had lost my way after that. Over the years, I had believed that silly things like comfort, happiness, pleasure, and wealth were the most important.
+
+The true answer was relationships. Relationships are the most important thing in my life. And I drilled that down further. Face-to-face relationships with other human beings and a spiritual relationship with God were the most important. In regards to relationships with other human beings, relationships of the four types of love were the most important. Those are affection, friendship, romance, and selfless giving and receiving.
+
+My eyes were opened to the tragedy that my life had become when I realized that I excelled in just about every area except relationships. I had my dream job. I had no debt, and was making way more money than I needed. I was physically healthy and fit. I was comfortable. And I had no friends.
+
+Fortunately, I had good relationships with my parents and sisters and God. Other than that, though, I was a lonely mess.
+
+I knew that I needed to get over my social anxiety if I was going to have any relationships. Grace brought me an opportunity, a place to start.
+
+- Tell story of Tom talking about Zantac
+- Tell story of Tom at New Year's Eve party and subsequent church folk band membership
+
+
+
+
+
+All this time, more than anything, I wanted a girlfriend. I lived in a small town in Pennsylvania where there were almost zero people my age, and dive bars were the social scene. I had been using online dating apps for a while with absolutely no success. The church band lead to zero prospects - no groupies like I had hoped. Then, I finally got a date, through an online dating app, with this incredibly beautiful woman.
+
+I was elated and terrified. I won't go into details, but after our third date she broke things off. I was devastated. There was no one else. But her dumping me was the best thing that had happened to me in years, maybe in my entire life.
+
+Dating her, I learned that I could act courageously even when I was terrified. I was so terrified that I felt nauseous the entire month that we knew each other. I couldn't eat. I couldn't sleep. I couldn't focus on anything.
+
+The day she broke things off, I had asked her to go to the drive-in with me to see a movie. It was July 23rd. I remember that because it was a Friday, and the moon was supposed to be red. I thought it would be amazing to watch a movie at the drive-in under a red full moon.
+
+She sent me a text at lunch time asking if she could call me when I get off work. That was unusual. She rarely initiated anything (which sucks for guys by the way because we never know if it's because the girl isn't interested, or if it's because she is following old cultural norms), so I knew what she was going to say.
+
+At work, I had to run through our process that sends bills out to students that afternoon. It was probably good to have that to focus on, but bad to be doing work that requires a good deal of focus when all I could do was hope and pray and wish that her phone call would not be to break things off.
+
+I got the bills out. The work day ended. She called me and told me it wasn't going to work, and alluded to something dumb I had said earlier in the week. I basically said okay and that it was fun hanging out with her. Then, I went downstairs, holding back tears, and cooked dinner. Then I watched a movie with my parents.
+
+Halfway through the movie, I got a text message from the Student Accounts director. She said there was something wrong with the bills.
+
+I ended up spending the final two hours of my Friday night fixing that problem. That was a rough day. But at the very end, when I had fixed my mistake, my boss and the Student Accounts director thanked and praised me for my hard work.
+
+Words can't describe how much their expressions of gratitude meant to me on that day.
+
+The next few months were difficult. I wanted to know exactly what I did wrong with Katresa, and I wanted to change. I didn't want to ever lose a woman like her again.
+
+I read books, read blog, watched YouTube videos, and listened to podcasts about romantic relationships. I consumed all the literature.
+
+Ultimately, I decided I needed to improve two virtues more than anything else. I needed courage and I needed patience ((the story of how I came to realize I needed patience)[https://kreydt.com/story/virtue/patience/soul/mind/2022/01/11/when-i-needed-patience.html]). Thus began what was and is perhaps the greatest adventure of my life.
+
+I started by moving out of my parents' house. I rented a place across the street from where I worked.
+
+I knew that my social anxiety was pretty bad, but I had also learned I could deal with it enough to do things that would help me grow and become less socially anxious.
+
+These small towns in Pennsylvania don't have much going on, so my first task in my new neighborhood was to go to a bar and have a drink. It turned out even that was too scary for me. So I started smaller. I decided I would walk past the bar on a Friday night, and maybe glance inside to see what it looked like.
+
+I could do that. That wasn't too bad. The following week, I did it again. And maybe once more. Then, I was ready to go inside. My goal was very specific. I would go inside the bar, order a drink, drink it, and then leave. I told myself I could stay if I wanted to, but I would be successful in achieving my goal if I left after having my drink.
+
+I did it. I even stayed for a couple hours. I started talking to a woman who was beside me at the bar. She told me to follow her to the back. There was a little courtyard in the back of the bar with live music. I sat with her and a couple of her friends. She offered me marijuana. I politely declined her offer. After a while, everybody went back inside to order more drinks, and I decided it was a good time for me to sneak away.
+
+I walked home exhilarated.
+
+My next goal was to repeat that process. I caught a bad cold and decided to take the next weekend off.
+
+As I was laying sick in bed, I scoured the internet for social groups and activities in my small town. There wasn't much. I found a Toastmasters club in another town an hour drive away. I found an evangelization group at my local Catholic church. And I found a rock climbing class in a city that was an hour and a half drive away.
+
+I did the rock climbing class first. The evangelization group was new and hadn't yet begun meeting. The Toastmasters club seemed a bit out of reach for me still.
+
+As much as I was afraid of the rock climbing class, the drive to and from, the people I might encounter, and the social interactions I might face, I was excited to learn to rock climb. I knew it would take my mind of my recent heartbreak. I knew it would help me build courage. And I knew it would be a cool skill to have.
+
+I took a four week class. Everything went great. I met cool people. I learned to rock climb and boulder. I even did some intermediate-advanved climbs. I was proud of my growth and courage.
+
+Next, I needed to go to the bar again. I hadn't fulfilled that goal of going a second time. I figured I caught my cold from the people there though, and I was really dreading being in a dive bar again. So I bargained with myself. For the coming weekend, I could skip the bar if I went to the Saturday morning Toastmasters meeting. That way, I would know I wasn't skipping out on the bar because of fear. I would was skipping it because, well, dive bars suck.
+
+I emailed the Toastmasters club leader. She emailed me back. I went to the meeting. And, thanks to the gentle pushing of the kind Toastmasters leaders, I even gave a one-minute impromptu speech! The exhiliration I felt was incredible. I did something I thought I could never do! I had gone from blacking out in panic while trying to talk to my apartment-mate to giving a one-minute impromptu speech!
+
+At that point, the idea that I could improve myself by taking incremental steps had really solidified. I was now a member of Toastmasters and the evangelization group at my church.
+
+I was ready for more.
+
 
 
 
@@ -355,6 +427,8 @@ The whole thing really clicked after I had started watching YouTube every evenin
 
 ADDITIONAL TOPICS AND NOTES
 ## Projecting my depression onto my failed relationships, but somedays I would feel fine, so it was clearly my depression, not my failed relationships, that were really the biggest problem.
+
+-- Life is not happiness. If someone leads you to believe that people are mostly happy, they're probably trying to exploit you. They want you to believe that you need them or their product or service in order to be happy. Be wary of people who engage your emotions.
 
 ## Nutrients, electrolyte theory
 -- Depressed after exercising, figure it must be a nutrient deficiency

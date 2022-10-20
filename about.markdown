@@ -31,6 +31,12 @@ After that, it's difficult to put things in order so I will tell you my next fiv
 * Tennis
 * Climbing
 
+### My favorite word
+* Us
+
+### My favorite compound word
+* Cupcake
+
 ### My favorite computer programming languages
 * Python
 * Swift
