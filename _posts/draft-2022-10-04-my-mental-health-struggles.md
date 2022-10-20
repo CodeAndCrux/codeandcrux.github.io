@@ -300,7 +300,7 @@ When the withdrawal symptoms finally went away, I felt great. I stopped experien
 
 Now, I was free of coffee, but I still had addictions. The worst was YouTube. Most people don't experience physical symptoms from YouTube addiction, so they don't think they're addicted to it. I was one of those people. However, I know now that it, and other social media, are addicted, and I was addicted. Let me explain how this addiction works.
 
-When I watch YouTube, I get a huge dopamine release. I learn new things. I see interesting people. I laugh. I "awe."
+When I watch YouTube, I get a huge dopamine release. I learn new things. I see interesting people. I laugh. I wonder.
 
 YouTube's algorithms are designed to give each user as much of a dopamine release as possible. They are designed that way in order to get viewers to spend as much time on YouTube as possible. The more time a person spends on YouTube, the more advertisements they see, and the more money YouTube makes. YouTube needs money to survive, so it designs its algorithms to maximize that.
 

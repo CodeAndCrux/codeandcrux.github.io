@@ -12,7 +12,7 @@ The world also needs spontaneous charity. The world needs people, like my friend
 
 It is good to serve soup to hungry people, but what about just taking a moment to acknowledge a hungry person's existence? What about feeding their spirit? What about listening to what they have to say? We cannot just keep sticking free food and money in their faces. They need deeper help. We can only help them if we take the time to listen to them, to find out what they truly need.
 
-And we should just be doing this for homeless or hungry people. We should be doing this for everybody. All of us are terrible and broken and needy. We need to help each other.
+And we shouldn't just be doing this for homeless or hungry people. We should be doing this for everybody. All of us are terrible and broken and needy. We need to help each other.
 
 Organized charity is good, but it can also turn those significant small acts into loveless, joyless ones. It can suck the healing power out of good works for the receiver and the giver. It can do this by turning free gifts into records in a ledger. It can do this by giving the people in charge a paycheck at the expense of good people. It can do this by drowning love in paperwork and beauracracy.
 
