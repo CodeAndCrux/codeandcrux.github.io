@@ -345,7 +345,15 @@ The whole thing really clicked when I fell back into my habit of watching YouTub
 ----
 
 ## Getting over my social anxiety
-The COVID pandemic, at least in the first couple months when we were still unsure of its effects, was really a boon in my life. It lead me to ask, "what is most important in my life?" I asked that question from several perspectives: What foods do I really need and what can I live without? What actually makes me happy? What would I do today if I only had one more year to live? What am I grateful for that COVID might take away from me? What matters and what does not?
+The COVID pandemic, at least in the first couple months when we were still unsure of its effects, was really a boon in my life. I saw myself acting certain ways based on my fear of the virus, and I saw others being manipulated and controlled by their own fear of the virus.
+
+Over the years, I had made it a habit to fix or improve myself when I see something wrong in the world. I hated the factory farming industry, so I stopped eating factory farmed meats.
+
+I hated that politicians, pharmaceutical companies, and social media platforms were capitalizing on people's fear of COVID, so I looked inward. I realized that I had made many of my biggest life decisions based on fear. I realized fear, not my desires or dreams or values, was the biggest driver behind my biggest decisions.
+
+I decided I could no longer let that happen. At the same time, facing the possibility of death due to this unfamiliar virus, I asked, "what is most important in my life?"
+
+I asked that question from several perspectives: What foods do I really need and what can I live without? What actually makes me happy? What would I do today if I only had one more year to live? What am I grateful for that COVID might take away from me? What matters and what does not?
 
 The answer was something I actually determined when I was an undergrad in college, when I read *The Four Loves* by C.S. Lewis, under the guidance of a phenomenal professor. Unfortunately, I had lost my way after that. Over the years, I had believed that silly things like comfort, happiness, pleasure, and wealth were the most important.
 
@@ -426,6 +434,8 @@ I was ready for more.
 ----
 
 ADDITIONAL TOPICS AND NOTES
+## Moving in with parents
+## Paying off debt as step toward mental health
 ## Projecting my depression onto my failed relationships, but somedays I would feel fine, so it was clearly my depression, not my failed relationships, that were really the biggest problem.
 
 -- Life is not happiness. If someone leads you to believe that people are mostly happy, they're probably trying to exploit you. They want you to believe that you need them or their product or service in order to be happy. Be wary of people who engage your emotions.
