@@ -2,7 +2,8 @@
 layout: post
 title:  "Feeling Bored or Burnt Out? Try Less Hyper-Stimulation"
 date:   2022-01-22 16:50:47 -0500
-categories: bored peace depression mind soul
+categories: Memo
+tags: bored peace depression mind soul
 ---
 If you often find yourself bored, burnt out or in a slump, limiting your exposure to hyper-stimulation might put you in a better state of mind.
 

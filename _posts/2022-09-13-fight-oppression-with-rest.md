@@ -2,7 +2,8 @@
 layout: post
 title:  "Fight Oppression with Rest"
 date:   2022-09-13 16:30:00 -0500
-categories: rest politics body soul mind
+categories: Memo
+tags: rest politics body soul mind
 ---
 In Biblical symbolism, the number six (also 666) is a sign of evil. It often represents incompleteness or a perpetual state of work.
 

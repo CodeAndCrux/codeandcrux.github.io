@@ -2,7 +2,8 @@
 layout: post
 title:  "Meditation Doesn't Have to Be Hard"
 date:   2022-05-15 18:22:00 -0400
-categories: prayer meditation soul mind
+categories: Memo
+tags: prayer meditation soul mind
 ---
 >"All of humanity's problems stem from man's inability to sit quietly in a room alone."
 >

@@ -2,7 +2,8 @@
 layout: post
 title:  "Donnie Darko Theory"
 date:   2018-10-01 16:30:00 -0500
-categories: soul mind film poetry
+categories: Memo
+tags: soul mind film poetry
 ---
 
 ![https://github.com/kreydt/kreydt.github.io/blob/main/assets/Donnie_Darko_Kiss.jpeg?raw=true](https://github.com/kreydt/kreydt.github.io/blob/main/assets/Donnie_Darko_Kiss.jpeg?raw=true)

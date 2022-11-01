@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "My Mental Health Struggles and the Lessons I've Learned"
-date:   2022-10-04 16:30:00 -0500
+title: "My Mental Health Struggles and the Lessons I've Learned"
+date: 2022-10-04 16:30:00 -0500
 categories: health mental body soul mind advice
 ---
 ## Learn From My Struggles

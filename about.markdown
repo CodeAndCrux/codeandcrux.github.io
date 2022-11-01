@@ -114,6 +114,7 @@ After that, it's difficult to put things in order so I will tell you my next fiv
 * Kotaro Lives Alone
 * The Office
 * Over the Garden Wall
+* Avatar: The Last Airbender
 
 ### My favorite poets
 * James Matthew Wilson

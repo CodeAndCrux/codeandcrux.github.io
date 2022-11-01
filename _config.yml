@@ -21,11 +21,12 @@
 title: Joseph Kreydt
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Memos on body, mind, and soul.
+  Memos, music, poems, code.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.kreydt.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: josephkreydt
 github_username:  josephkreydt
+permalink: /:title
 
 # Build settings
 remote_theme: jekyll/minima

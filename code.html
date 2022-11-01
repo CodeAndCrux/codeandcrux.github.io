@@ -1,0 +1,13 @@
+---
+layout: page
+permalink: /code/
+title: Code
+---
+<div id="archives">
+    {% assign posts = site.posts | where_exp: "post", "post.categories contains 'Code'" %}
+    {% for post in posts %}
+        <article class="archive-item">
+            <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+        </article>
+    {% endfor %}
+</div>
