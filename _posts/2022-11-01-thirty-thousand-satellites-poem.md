@@ -8,7 +8,7 @@ tags: protest nature astronomy
 Look at the pictures, young one.<br>
 Oh, the way Orion danced across the sky.<br>
 He danced as slow as honey flows<br>
-- in perfect rhythm, though.<br>
+&ndash; in perfect rhythm, though.<br>
 We watched him every winter night.
 
 He danced and glowed. Each lustrous node<br>
