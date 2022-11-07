@@ -41,4 +41,4 @@ Donnie is tempted to stay right there with Gretchen because he knows, as Frank s
 
 Donnie is tempted to not burn Jim Cunningham’s house down. Like Jesus Christ, Donnie overcomes the temptation in order to save the world.
 
-That is my ridiculous theory about the meaning of the sign behind Donnie when he exits the movie theater. Any Donnie Darko fans/theorists out there, what do you think?
+That is my ridiculous theory about the meaning of the sign behind Donnie when he exits the movie theater.

@@ -365,8 +365,43 @@ Fortunately, I had good relationships with my parents and sisters and God. Other
 
 I knew that I needed to get over my social anxiety if I was going to have any relationships. Grace brought me an opportunity, a place to start.
 
-- Tell story of Tom talking about Zantac
-- Tell story of Tom at New Year's Eve party and subsequent church folk band membership
+I had come to the conclusion that there were things more important than death. That was a wonderful realization to come from the pandemic. In July of 2020, it was time to test my new conclusion. Did I truly believe that relationships were more important than death?
+
+My parents hosted a Fourth of July get-together with some family friends. COVID was still relatively new, but cases were significantly down thanks to the summer season. Still, nobody really knew how to handle things. Do we shake hands or just tap elbows? Should we be this close together? Will the community fireworks gathering spread the virus? There were many questions, but we managed to have a good time.
+
+After eating delicious grilled meats and casserole dishes, we went to the community yard to watch the fireworks. When those finished, everybody was still starving for social interaction - a side effect of being cooped up and socially distanced for several months - so we built a fire, drank beer, and talked.
+
+At one point, a family friend who is a doctor brought up something about acid reflux and a big lawsuit against Zantac and/or the companies manufacturing its generic versions. I stopped. "What!? I took that stuff multiple times a day for years when I was growing up."
+
+He said, "oh yeah, haven't you seen all the commercials?" I don't watch TV. "It caused all kinds of problems...just about every kind of cancer you can imagine..." He went on. I went into a panic.
+
+I barely slept that night. I knew antacids had problems, but I had no idea it was so bad. Forgive me if I lost every remaining ounce of trust I had in the medical industry that day.
+
+After a sleepless night, I pulled myself together. I reminded myself that I had been off of them for years now. I reminded myself that I had recently come to accept the possibility of dying soon. I breathed and went for a walk, and I felt much better. I felt peace.
+
+I was also very happy with the way I was able to handle the entire Fourth of July gathering. I had let go of my fears and enjoyed the company. It had turned out to be a wonderful day. I was looking forward to more social interaction with people other than my parents and sisters.
+
+That summer flew by, and so did the rest of the year. I think I went on one date with a girl I met on an online dating app. I found that she had lied about something on her dating profile, so I broke things off.
+
+The next thing I knew, it was New Year's Eve. My parents had another get-together. I drank a couple white Russians - yum.
+
+The doctor friend and his wife were there. I ended up talking to them well-after midnight. I found out the doctor played guitar, and he was starting up a small folk group to play music at Mass. I told him I was interested in getting together with him and playing guitar. It scared the hell out of me, but, well, I suppose that was the biggest reason I did it.
+
+I wasn't sure I could stay committed to something like that. I wasn't sure I wanted to do it. I wasn't sure I even believed Mass should have music. I was sure that God gave me the gift of musical talent, and I was sure that playing in front of people terrified me. Most of all, I knew, deep down, that I needed to do this.
+
+I saw the doctor at Mass a couple days later and he asked me to set up a time to get together and jam. Not long after that, we had a couple additional singers and we were scheduled to play at Sunday Mass.
+
+I was very nervous the first time. The doctor was too. But we did it, and we did it quite well. The next time was much easier. I knew what to expect. We played a couple more Masses together. Unfortunately, just when we were really getting into a good groove, I was set to move out of my parents' house to be closer to work.
+
+The experience was groundbreaking though. I had proven to myself that I was capable of doing great things in spite of my fear, and that I could grow and become less afraid.
+
+
+
+
+I still find myself dreading social situations sometimes. But I just remind myself that the dread is my anxiety. It is not that I dislike spending time with people, it is that I am afraid of what they'll think of me. Then, I spend time reframing my mindset and thinking through that fear, and I find myself pleased to spend time with friends once again.
+
+
+
 
 
 
