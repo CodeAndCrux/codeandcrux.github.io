@@ -18,7 +18,7 @@ After reading up on the movie, one starts to realize it is not just a movie. It 
 
 I have watched *Donnie Darko* many times, and each time I have noticed new details. When I notice something new, I consider how it plays into the plot.
 
-If you haven’t read up on *Donnie Darko* theory, [click this link for a good overview](https://www.salon.com/2004/07/23/darko).
+If you haven’t read up on *Donnie Darko* theory, [click this link for a good overview](https://www.salon.com/2004/07/23/darko){:target="_blank"}.
 
 I could discuss my own theories and observations about the movie for weeks. I won’t do that, but when I watched the movie today, I noticed something I hadn’t noticed before.
 Donnie goes to the movie theater with his girlfriend, Gretchen Ross. While watching *The Evil Dead*, Gretchen falls asleep, and Donnie sees Frank. Frank tells Donnie to go burn down Jim Cunningham’s house. Donnie does what Frank tells him. As he exits the movie theater, the theater marquee in the background shot says, “The Evil Dead,” and below that, “The Last Temptation of Christ.”
