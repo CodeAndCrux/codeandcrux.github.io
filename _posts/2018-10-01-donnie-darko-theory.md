@@ -5,6 +5,7 @@ date:   2018-10-01 16:30:00 -0500
 categories: Memo
 tags: soul mind film poetry
 ---
+*Warning: This post may contain spoilers...but I've watched Donnie Darko a hundred times, knowing the plot, and it still hasn't lost its value. There is so much mystery in the movie that it really can't be spoiled (in my humble opinion).*
 
 ![https://github.com/kreydt/kreydt.github.io/blob/main/assets/Donnie_Darko_Kiss.jpeg?raw=true](https://github.com/kreydt/kreydt.github.io/blob/main/assets/Donnie_Darko_Kiss.jpeg?raw=true)
 
