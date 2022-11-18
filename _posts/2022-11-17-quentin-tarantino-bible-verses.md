@@ -7,7 +7,10 @@ tags: soul mind film religion bible
 ---
 Quentin Tarantino is a movie director/writer/producer. His movies are often very violent. They're also really good. The stories are unique. The characters and their interactions are deep. The shots are interesting. The movies feel quite "biblical."
 
-There is a reason for that. The Bible has some wild stuff in it.
+In fact, one of his most popular movies, Pulp Fiction, has a Bible verse in it:
+> "And I will strike down upon thee with great vengeance and furious anger those who attempt to poison and destroy my brothers. And you will know I am the Lord when I lay my vengeance upon you."
+> 
+> Ezekiel 25:17
 
 A couple years ago a priest challenged me, and everyone else listening to his homily, to read through the Bible cover-to-cover. I accepted the challenge, and have been reading about a chapter a day ever since.
 
