@@ -5,7 +5,7 @@ date:   2022-11-17 16:30:00 -0500
 categories: Memo
 tags: soul mind film religion bible
 ---
-Quention Tarantino is a movie director/writer/producer. His movies are often very violent. They're also really good. The stories are unique. The characters and their interactions are deep. The shots are interesting. The movies feel quite "biblical."
+Quentin Tarantino is a movie director/writer/producer. His movies are often very violent. They're also really good. The stories are unique. The characters and their interactions are deep. The shots are interesting. The movies feel quite "biblical."
 
 There is a reason for that. The Bible has some wild stuff in it.
 
