@@ -7,7 +7,7 @@ tags: society culture adventure soul food
 ---
 It's almost midnight.<br>
 The McDonald’s drive thru<br>
-has 6 cars in line.
+has six cars in line.
 
 I am only walking by.<br>
 I’m hungry for something more.<br>
