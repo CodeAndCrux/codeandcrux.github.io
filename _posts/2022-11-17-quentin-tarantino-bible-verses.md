@@ -18,7 +18,7 @@ As I read, various verses and parts stood out to me. One of my favorite parts is
 
 What a boss.
 
-As I continued reading through the books, I found myself amused by some of the detailed descriptions of gore. They reminded me of scenes in Quentin Tarantino movies like Kill Bill and Pulp Fiction. I started collecting them.
+As I continued reading through the books, I found myself amused by some of the detailed descriptions of gore and other brutal scenes. They reminded me of scenes in Quentin Tarantino movies like Kill Bill and Pulp Fiction. I started collecting them.
 
 I'm up to the book of Psalms now, so there may be more to come, and I may have missed some along the way, but here is what I have for now.
 
