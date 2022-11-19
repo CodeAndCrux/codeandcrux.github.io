@@ -5,7 +5,7 @@ date:   2022-01-11 16:50:47 -0500
 categories: Memo
 tags: story virtue patience soul mind
 ---
-One Saturday afternoon, I went to confession. Among other things, I confessed that I was harboring self-pity. The priest asked why, and I told him it was because I was single and felt lonely. Then he asked, “what does God want you to do about it?”
+One Saturday afternoon, I went to confession. Among other things, I confessed that I was harboring self-pity. The priest asked why. I told him. Then he asked, “what does God want you to do about it?”
 
 “I don’t know,” I said.
 
@@ -13,13 +13,11 @@ One Saturday afternoon, I went to confession. Among other things, I confessed th
 
 After confession, I kneeled in front of a St Joseph statue at the back of the church, and did my penance. Then, I went to a pew and waited for Saturday afternoon mass to begin. I kneeled down and I asked God what he wanted me to do about my predicament.
 
-Sometimes God answers slowly, like a sunrise. But this time, he answered right away. In an epiphany, the word “patience” came to me along with an overwhelming sense of relief. I even laughed a little bit. Patience seems to imply that love will come to me eventually, and that is comforting.
+Sometimes God answers slowly, but this time he answered right away. In an epiphany, the word “patience” came to me along with an overwhelming sense of relief. I even laughed a little bit.
 
-God’s answer surprised me. I thought I was doing just fine as far as patience goes. I have been single for, well, a long time; longer than most people. But I guess that doesn’t automatically mean I have patience. The more I mulled over the answer, the more it made sense.
+God’s answer surprised me. I thought I was doing just fine as far as patience goes. But the more I mulled over the answer, the more it made sense.
 
-Later that evening, I mowed my lawn. In doing so, I found out that I have an attractive neighbor. She is also the mother of a one-or-two-year-old girl. She also has a husband.
-
-Over the next couple days, my thoughts were plagued with envy. As one of the seven deadly sins, envy is no joke. I was envious of my neighbor, the husband, because he had a beautiful wife and child.
+Over the next couple days, my thoughts were plagued with envy. As one of the seven deadly sins, envy is no joke.
 
 I decided to correct the sin, but I had no idea how to stop feeling envious. I knew about the seven deadly sins. I also knew of the seven lively virtues which correspond to, and help one fight against, the seven deadly sins.
 
@@ -27,7 +25,7 @@ I searched the web. It turns out, the virtue that combats envy is patience. “G
 
 The next time I went to confession, I was eager to know my penance. It was the second Saturday in December. The Gospel reading for that Sunday was Luke 3:10–18. In the reading, the crowds ask John the Baptist, “what should we do?”
 
-In the spirit of the Sunday reading, the priest gave me one of the heftier penances I have ever been given. He told me to ask God what I should do each day, and then spend six to ten minutes listening for his answer, and do this until January 1st. “By then,” he said, “you should have a good idea of what God wants you to do.”
+In the spirit of the Sunday reading, the priest gave me one of the heftier penances I have ever been given. I think he might have been in a bad mood that day too, but it worked out. He told me to ask God what I should do each day, and then spend six to ten minutes listening for his answer, and do this until January 1st. “By then,” he said, “you should have a good idea of what God wants you to do.”
 
 I took that penance seriously. I wanted to know what I should do, and who better to tell me than God himself? So this was my mantra each day: “God, the Father, what should I do? Jesus Christ, the son and redeemer, what should I do? Holy Spirit, what should I do? Saint John the Baptist, what should I do?” I didn’t get an answer right away this time, but when I needed it, it came.
 
