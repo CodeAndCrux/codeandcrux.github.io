@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Drive Thru"
-date:   2022-11-19 16:30:00 -0500
+date:   2022-11-19 11:30:00 -0500
 categories: Poem
 tags: society culture adventure soul food
 ---
