@@ -23,7 +23,7 @@ As I continued reading through the books, I found myself amused by some of the d
 I'm up to the book of Psalms now, so there may be more to come, and I may have missed some along the way, but here is what I have for now.
 
 ## 2 Kings 9:30-37
-Death of Jezebel
+Death of Jezebel<br>
 Jehu came to Jezreel, and when Jezebel heard of it, she shadowed her eyes, adorned her hair, and looked down from her window. 31 As Jehu came through the gate, she cried out, “Is all well, you Zimri, murderer of your master?” Jehu looked up to the window and shouted, “Who is on my side? Who?” At this, two or three eunuchs looked down toward him. “Throw her down,” he ordered. They threw her down, and some of her blood spurted against the wall and against the horses. Jehu trod over her body and, after eating and drinking, he said: “Attend to that accursed woman and bury her; for she was the daughter of a king.” But when they went to bury her, they found nothing of her but the skull, the feet, and the hands. They returned to Jehu, and when they told him, he said, “This is the word the Lord spoke through his servant Elijah the Tishbite: In the confines of Jezreel the dogs shall devour the flesh of Jezebel. The corpse of Jezebel shall be like dung in the field in the confines of Jezreel, so that no one can say: This was Jezebel.”
 
 ## 2 Kings 15:15-16
