@@ -10,8 +10,8 @@ A hunger, mighty as a tidal wave,<br>
 swept away the wits of every man.
 
 Even the richest man became a slave<br>
-to appetites of animals, of swine!<br>
-It cast a many men into their grave.
+to appetites of animals, of swine.<br>
+Many men it cast into their grave.
 
 But one single man it could not misalign.<br>
 He starved himself so they could eat instead.<br>
