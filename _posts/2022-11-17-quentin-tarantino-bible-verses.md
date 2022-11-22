@@ -44,6 +44,13 @@ But when the troops, on the point of capturing the tower, were forcing the outer
 Then Judas, that man who was ever in body and soul the chief defender of his fellow citizens, and had maintained from youth his affection for his compatriots, ordered Nicanor’s head and right arm up to the shoulder to be cut off and taken to Jerusalem. When he arrived there, he assembled his compatriots, stationed the priests before the altar, and sent for those in the citadel. He showed them the vile Nicanor’s head and the wretched blasphemer’s arm that had been boastfully stretched out against the holy dwelling of the Almighty. He cut out the tongue of the godless Nicanor, saying he would feed it piecemeal to the birds and would hang up the other wages of his folly opposite the temple. At this, everyone looked toward heaven and praised the Lord who manifests himself: “Blessed be the one who has preserved undefiled his own place!” Judas hung Nicanor’s head and arm on the wall of the citadel, a clear and evident sign to all of the Lord’s help.
 
 ## Psalm 3:8
-Arise, Lord! Save me, my God!
-For you strike the cheekbone of all my foes;
+Arise, Lord! Save me, my God!<br>
+For you strike the cheekbone of all my foes;<br>
 you break the teeth of the wicked.
+
+## Job 36:33
+His thunder announces him<br>
+and he incites the fury of the storm.
+
+## 1 Kings 18:24
+“The God who answers with fire is God.”
