@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Cannibals"
-date:   2022-11-20 16:30:00 -0500
+title: "Cannibals"
+date: 2022-11-20 16:30:00 -0500
 categories: Poem
 tags: chris love suffering soul sacrifice
 ---
