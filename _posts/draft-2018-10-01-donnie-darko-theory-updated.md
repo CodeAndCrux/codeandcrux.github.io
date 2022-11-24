@@ -5,7 +5,12 @@ date:   2018-10-01 16:30:00 -0500
 categories: Memo
 tags: soul mind film poetry
 ---
-
+- The ultimate human temptation is the temptation to deny our fate. That is pride. It is the root of all sin. In the most extreme case, it results in suicide, but also in abandonment to vice.
+- Vice turns us into the dead. Sin is death in the sense that it closes us off from the life-giving God, from true happiness, from life. Vice is sin. 
+- Donnie Darko goes to the movies with Gretchen Ross, the love of his life. Frank, the bunny, appears to Donnie. Donnie asks Frank to take his mask off. Frank has a bullet wound in his eye, but Donnie hasn’t shot Frank yet. So Donnie is seeing his fate, his future.
+- Then Frank tells Donnie to burn down Jim Cunningham’s house. This is Donnie’s last temptation from Frank. Donnie can either deny his fate and stay in the movie theater with Gretchen Ross, where just about any teenage boy would love to be, or he can accept his fate, obey, and go burn down Jim Cunningham’s house.
+- Donnie accepts his fate. As he’s walking out of the theater, the marquee says “The Evil Dead” and “The Last Temptation of Christ”
+- Donnie is the Christ figure in this movie. He must give his life to save the world. He accepts. He leaves the theater, he leaves The Evil Dead, the life of vice and pride, and he does not succumb to the last temptation. He saves the world.
 
 
 ![https://github.com/kreydt/kreydt.github.io/blob/main/assets/Donnie_Darko_Kiss.jpeg?raw=true](https://github.com/kreydt/kreydt.github.io/blob/main/assets/Donnie_Darko_Kiss.jpeg?raw=true)
