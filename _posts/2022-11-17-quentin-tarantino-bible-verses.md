@@ -54,3 +54,30 @@ and he incites the fury of the storm.
 
 ## 1 Kings 18:24
 “The God who answers with fire is God.”
+
+## Psalm 58:2-12
+Do you indeed pronounce justice, O gods;<br>
+    do you judge fairly you children of Adam?<br>
+No, you freely engage in crime;<br>
+    your hands dispense violence to the earth.
+
+The wicked have been corrupt since birth;<br>
+    liars from the womb, they have gone astray.<br>
+Their venom is like the venom of a snake,<br>
+    like that of a serpent stopping its ears,<br>
+So as not to hear the voice of the charmer<br>
+    or the enchanter with cunning spells.
+
+O God, smash the teeth in their mouths;<br>
+    break the fangs of these lions, Lord!<br>
+Make them vanish like water flowing away;<br>
+    trodden down, let them wither like grass.<br>
+Let them dissolve like a snail that oozes away,<br>
+    like an untimely birth that never sees the sun.<br>
+Suddenly, like brambles or thistles,<br>
+    have the whirlwind snatch them away.<br>
+Then the just shall rejoice to see the vengeance<br>
+    and bathe their feet in the blood of the wicked.<br>
+Then people will say:<br>
+    “Truly there is a reward for the just;<br>
+    there is a God who is judge on earth!”
