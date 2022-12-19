@@ -65,7 +65,7 @@ Another effect of the nepreryvka was that religious adherence was made impractic
 
 In his book *The Undiscovered Self*, Carl Jung points out that absolutist states, like the Soviet Union, see statistical reality - things which can be proven - as the only reality. Religion threatens that reality by claiming that there exist things which cannot be proven.
 
-The Soviet rulers needed the state's reality to be the only reality. That way, they could be the moral authority. That they could dictate each man's moral decisions. They needed to be the holder of truth, above criticism. They needed individuals to outsource their moral decision-making to the state. And many are willing to do so because moral decision-making requires deep thinking and great responsibility.
+The Soviet rulers needed the state's reality to be the only reality. That way, they could be the moral authority. That way, they could dictate each man's moral decisions. They needed to be the holder of truth, above criticism. They needed individuals to outsource their moral decision-making to the state. And many are willing to do so because moral decision-making requires deep thinking and great responsibility.
 
 However, outsourcing one's morals becomes a problem when the moral authority tells us to kill (like in the Rwandan Genocide), to turn in his brother if he speaks out against the state (like in the Soviet Union), or that some other evil is no longer evil (like abortion in our current state). This can cause men and women to act against their own consciences and commit atrocities.
 
