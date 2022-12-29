@@ -2,7 +2,7 @@
 layout: post
 title:  "Seek Moments, Not Minutes"
 date:   2022-09-12 12:30:00 -0500
-categories: Memo Poem
+categories: Memo
 tags: life time soul mind
 ---
 he spent his life in his lab<br>
